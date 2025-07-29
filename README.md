@@ -9,3 +9,10 @@ While we designed these macros specifically for the study of ADA, they can be ap
 
 To use these macros, you can download them from here, or from our Zenoba link: _______
 Simply drag the file into FIJI and it will open automatically. Please remember to read over the directions commented in each macro.
+
+
+The purpose of each macro is as follows:
+ADA_detection: To measure the actin intensity on mitochondria against actin intensity in the rest of the cell for a two-channel image.
+ADA_detection_w/nucleus: The same as the last but on an image with a nucleus channel; the nucleus is automatically segmented and removed from the selection for a more accurate measurement. 
+ADA_movie_detection: The same as the first, but does so for every frame of a movie of a live cell.
+ADA_quantification_mutlipleROIs: Just measures the actin intensity on mitochondria for every frame of a movie of a live cell. 
