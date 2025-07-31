@@ -12,8 +12,8 @@ Simply drag the file into FIJI and it will open automatically. Please remember t
 
 
 The purpose of each macro is as follows:  
-ADA_detection: To measure the actin intensity on mitochondria against actin intensity in the rest of the cell for a two-channel image.  
-ADA_detection_w/nucleus: The same as the last but on an image with a nucleus channel; the nucleus is automatically segmented and removed from the selection for a more accurate measurement.   
-ADA_movie_detection: The same as the first, but does so for every frame of a movie of a live cell.  
-ADA_quantification_mutlipleROIs: Just measures the actin intensity on mitochondria for every frame of a movie of a live cell.   
+Fixed1_noNuc : To measure the actin intensity on mitochondria against actin intensity in the rest of the cell for a two-channel image.  
+Fixed2_Nuc : The same as the last but on an image with a nucleus channel; the nucleus is automatically segmented and removed from the selection for a more accurate measurement.   
+Live1 : The same as the first, but does so for every frame of a movie of a live cell.  
+Live2 : Just measures the actin intensity on mitochondria for every frame of a movie of a live cell.   
 
