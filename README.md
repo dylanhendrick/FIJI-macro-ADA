@@ -7,7 +7,7 @@ Each macro will have specific instructions via comments in each file, but they a
 
 While we designed these macros specifically for the study of ADA, they can be applied to any attempt at quantifying intenity of one channels overlapping with signal on another channel. 
 
-To use these macros, you can download them from here, or from our Zenoba link: [_______](https://zenodo.org/records/16648726)
+To use these macros, you can download them from here, or from our Zenoba: [___link____](https://zenodo.org/records/16648726)
 Simply drag the file into FIJI and it will open automatically. Please remember to read over the directions commented in each macro.
 
 
